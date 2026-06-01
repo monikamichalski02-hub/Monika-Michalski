@@ -1,0 +1,6 @@
+{
+  "name": "Mona",
+  "description": "Futuristic bilingual AI assistant for Monika Michalski with voice visualization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
